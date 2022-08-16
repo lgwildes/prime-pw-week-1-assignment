@@ -17,6 +17,6 @@ git version 2.15.0
 # 8 - Why would you run the command 'git status'?
 to learn where you have made uncommitted edits in your VSCode
 # 9 - What does the command 'git add .' do?
-it readies your changes in your code so you can commit them
+it readies all your changes in your code so you can commit them
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push origin main
